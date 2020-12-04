@@ -1,7 +1,7 @@
 # Bootstrap 4 Responsive Creative Theme
 
 ## Description
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose use. A modern, flat design style works in unison with rich features and plugins making this theme a great boilerplate for your next Bootstrap based project!
+Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose use. A modern, flat design style works in unison with rich features and plugins making this theme a great boilerplate for your next Bootstrap based project.
 
 ## Features
 A modern, flat design layout

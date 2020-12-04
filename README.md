@@ -11,3 +11,6 @@ Source files available on GitHub with npm based development environment with wat
 Intuitive HTML markup with easy to customize content sections
 Responsive, full page header featuring a background image with overlay and vertically centered content
 Fully functional portfolio image grid with hover captions and a working lightbox gallery
+
+
+![Screenshot](screenshot.png)
